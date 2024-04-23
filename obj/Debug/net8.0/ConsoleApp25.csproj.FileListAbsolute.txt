@@ -12,3 +12,4 @@ C:\Users\Armine\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\refint\C
 C:\Users\Armine\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\ConsoleApp25.pdb
 C:\Users\Armine\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\ConsoleApp25.genruntimeconfig.cache
 C:\Users\Armine\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\ref\ConsoleApp25.dll
+C:\Users\Armine\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\ConsoleApp25.sourcelink.json

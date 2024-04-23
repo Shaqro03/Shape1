@@ -8,7 +8,7 @@ internal class Rectangle : Shape
 {
     public void Uxankyun()
     {
-        Koxm();
+        //Koxm();
         Koxm4();
         string koxm4;
         double d;

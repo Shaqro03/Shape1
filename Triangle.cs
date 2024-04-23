@@ -6,7 +6,7 @@ internal class Triangle : Shape
 {
     public void Erankyun()
     {
-        Koxm();
+        //Koxm();
         double p;
         double s;
         do
