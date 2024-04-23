@@ -13,6 +13,7 @@ internal class Program
         Rectangle rectangle = new Rectangle();
         rectangle.Koxm();
         rectangle.Uxankyun();
+        Console.ReadKey();
 
     }
 }
